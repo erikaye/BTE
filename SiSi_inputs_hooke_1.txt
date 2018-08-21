@@ -1,0 +1,10 @@
+2	11
+nL (n>=2), numPer
+1	1.0e-9	1.0e-9	1	1
+fileNum, L(1:nL), mat(1:nL) (must be alternating or all the same)
+./
+DFT_path
+./
+write_path
+
+
